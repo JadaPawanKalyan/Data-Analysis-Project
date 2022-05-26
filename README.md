@@ -5,3 +5,12 @@ Other dataset we have is Delivery_Partners_Data.csv which contains columns like 
 With the help of those features I performed Exploratory Data Analysis where we plotted several plots using matplotlib and seaborn. I've also Data Preprocessing and Data Cleaning using tools like Pandas and Numpy where I cleaned the data, Performed Feature Extraction, Created new features and Imputing the missing values.
 
 Lastly using Sklearn I trained a Random Forest model, which identifies the correct delivery partner with which the order should be given with 96% Accuracy.
+
+# Data-Analysis-Project
+![plot](./plotted_images/img1.png)
+<br />
+<br />
+![plot](./plotted_images/img2.png)
+<br />
+<br />
+![plot](./plotted_images/img3.png)
