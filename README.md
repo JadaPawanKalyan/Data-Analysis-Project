@@ -6,7 +6,7 @@ With the help of those features I performed Exploratory Data Analysis where we p
 
 Lastly using Sklearn I trained a Random Forest model, which identifies the correct delivery partner with which the order should be given with 96% Accuracy.
 
-# Data-Analysis-Project
+# Sample Plots
 ![plot](./plotted_images/img1.png)
 <br />
 <br />
